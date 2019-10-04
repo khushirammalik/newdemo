@@ -1,0 +1,51 @@
+.top_navigation{
+    background-color: darkgoldenrod;
+}
+.reqspace{
+    height: 50px;
+    margin-top: 50px;
+}
+.navshd{
+    
+    box-shadow: -4px 5px 20px #dee2e6;
+}
+.cardshd{
+    box-shadow: -1px 2px 9px 0px rgba(0,0,0,0.2);
+}
+
+.navbar-toggler {
+    background-color: #6c757d;
+}
+.navbar-light{
+    background-color: #ffc107;
+}
+.form-control{
+    background-color: #f1f1f18a;
+}
+.fas{
+color: #ffc107;
+}
+.far{
+    color:#ffc107;
+}
+
+    .border-right {
+        border-right: 2px solid #444 !important;
+        border-right-width: 2px !important;
+        border-right-style: solid !important;
+        border-right-color: rgb(68, 68, 68) !important;
+    }
+    .nav-link{
+        font-weight: 500;
+        color:black !important;
+    }
+
+
+    
+    /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
